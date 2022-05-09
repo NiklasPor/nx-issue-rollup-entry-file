@@ -1,5 +1,5 @@
 {
-  "npmScope": "fc-ui-test",
+  "npmScope": "prefix-test",
   "affected": {
     "defaultBase": "main"
   },

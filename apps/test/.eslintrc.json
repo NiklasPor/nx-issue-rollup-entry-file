@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "fc-ui-test",
+            "prefix": "prefix-test",
             "style": "kebab-case"
           }
         ]

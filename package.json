@@ -1,5 +1,5 @@
 {
-  "name": "fc-ui-test",
+  "name": "prefix-test",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -36,7 +36,9 @@
     "@nrwl/cypress": "14.1.4",
     "@nrwl/eslint-plugin-nx": "14.1.4",
     "@nrwl/jest": "14.1.4",
+    "@nrwl/js": "14.1.4",
     "@nrwl/linter": "14.1.4",
+    "@nrwl/web": "^14.1.4",
     "@nrwl/workspace": "14.1.4",
     "@types/jest": "27.4.1",
     "@types/node": "16.11.7",

@@ -1,7 +1,7 @@
 {
   "projectType": "application",
   "sourceRoot": "apps/test/src",
-  "prefix": "fc-ui-test",
+  "prefix": "prefix-test",
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:browser",

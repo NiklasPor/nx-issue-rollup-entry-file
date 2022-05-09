@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'fc-ui-test-root',
+  selector: 'prefix-test-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
